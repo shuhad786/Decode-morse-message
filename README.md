@@ -60,15 +60,15 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Decode-morse-message] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> A Ruby script that decodes a message into a string.
 
-**[your_project__name]** is a...
+**[Decode-morse-message]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with">Ruby</a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="tech-stack">Ruby</a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
@@ -205,11 +205,11 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Shuhad Loofer**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Shuhad786](https://github.com/Shuhad786)
+
+- LinkedIn: [LinkedIn](https://linkedin.com/in/shuhad-loofer)
 
 👤 **Author2**
 
@@ -225,9 +225,7 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[add it to an application]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
