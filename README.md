@@ -213,9 +213,8 @@ Example:
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Kasaija-Kenneth](https://github.com/Kasaija-Kenneth)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/kasaija-kenneth)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
